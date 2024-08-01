@@ -94,6 +94,10 @@ section ul li {
         padding-left: 15px;
     }
 
+    strong {
+        font-weight: 700;
+    }
+
     .indent {
         margin-left: 15px;
     }
@@ -110,6 +114,10 @@ section ul li {
 
     section ul {
         padding-left: 10px;
+    }
+
+    strong {
+        font-weight: 700;
     }
 
     .indent {
