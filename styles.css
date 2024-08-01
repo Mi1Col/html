@@ -1,0 +1,50 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: radial-gradient(#2e2e2e, #1a1a1a);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #dedede;
+}
+
+h1 {
+    transition: text-decoration 0.5s;
+    background: linear-gradient(90deg,#2f10af, #1ffa1f);
+    background-clip: text;
+    color: transparent;
+    width: 4em;
+    margin: 0 auto;
+    font-size: 5em;
+}
+
+h1:hover {
+    text-decoration: underline;
+    text-decoration-color: #ff11ff;
+}
+
+h5 {
+    text-align: right;
+}
+
+ul {
+
+    padding: 2em;
+    margin: 0 auto;
+}
+
+ul li {
+    margin: 0.7em 2em;
+    text-align: left;
+}
+
+a {
+    transition: box-shadow 0.9s;
+    color: #ffff11;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #ff11ff;
+    box-shadow: 0 22px 15px 0 #a1a1a1;
+}
