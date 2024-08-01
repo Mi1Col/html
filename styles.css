@@ -62,7 +62,7 @@ a:hover {
 
     h5 {
         font-size: 0.9em;
-        text-align: center;
+        text-align: right;
     }
 
     ul {
@@ -70,7 +70,7 @@ a:hover {
     }
 
     ul li {
-        text-align: center;
+        text-align: left;
         margin: 0.5em 0;
     }
 
